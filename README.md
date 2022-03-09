@@ -5,3 +5,5 @@ Primeiro desafio solicitado
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 
 ## linha para provocar um conflito de branch
+
+##### Nova linha do conflito da versão local
