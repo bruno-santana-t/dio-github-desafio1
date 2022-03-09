@@ -1,0 +1,2 @@
+Link para Download do Git: https://git-scm.com/downloads
+Para instalar o CLI git no Mac com processador arquitetura ARM versão M1, teve que instalar o gerenciador HomeBrew com algumas particularidades.
